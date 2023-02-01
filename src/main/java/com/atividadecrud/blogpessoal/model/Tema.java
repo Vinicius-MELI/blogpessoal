@@ -17,7 +17,7 @@ public class Tema {
     @GeneratedValue (strategy = GenerationType.IDENTITY)
     private Long id;
 
-    @NotNull
+    @NotBlank
     private String descricao;
 
     @OneToMany (mappedBy = "tema", cascade = CascadeType.REMOVE)
