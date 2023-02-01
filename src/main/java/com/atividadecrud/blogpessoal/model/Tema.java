@@ -3,6 +3,7 @@ package com.atividadecrud.blogpessoal.model;
 
 import jakarta.persistence.*;
 import jakarta.validation.constraints.NotBlank;
+import jakarta.validation.constraints.NotNull;
 
 @Entity
 @Table (name = "tb_temas")
@@ -13,9 +14,10 @@ public class Tema {
     @GeneratedValue (strategy = GenerationType.IDENTITY)
     private Long id;
 
-    @NotBlank
+    @NotNull
     private String descricao;
 
+    //private
 
     public Long getId() {
         return id;
