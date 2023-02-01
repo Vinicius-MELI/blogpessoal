@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3f53b121-9bbb-48b3-9d63-e6da3078b1e3" name="Changes" comment="" />
+    <list default="true" id="3f53b121-9bbb-48b3-9d63-e6da3078b1e3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atividadecrud/blogpessoal/model/Tema.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogpessoal.iml" beforeDir="false" afterPath="$PROJECT_DIR$/blogpessoal.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/atividadecrud/blogpessoal/controller/PostagemController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/atividadecrud/blogpessoal/controller/PostagemController.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,8 +18,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -80,6 +85,10 @@
       <workItem from="1675205665676" duration="375000" />
       <workItem from="1675206045358" duration="89000" />
       <workItem from="1675206137872" duration="1718000" />
+      <workItem from="1675207915498" duration="754000" />
+      <workItem from="1675259818103" duration="698000" />
+      <workItem from="1675263570269" duration="157000" />
+      <workItem from="1675263946181" duration="3035000" />
     </task>
     <servers />
   </component>
