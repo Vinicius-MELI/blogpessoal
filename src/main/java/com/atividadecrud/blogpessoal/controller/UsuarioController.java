@@ -3,6 +3,7 @@ package com.atividadecrud.blogpessoal.controller;
 import java.util.List;
 import java.util.Optional;
 
+
 import com.atividadecrud.blogpessoal.model.Usuario;
 import com.atividadecrud.blogpessoal.model.UsuarioLogin;
 import com.atividadecrud.blogpessoal.repository.UsuarioRepository;
@@ -34,7 +35,9 @@ public class UsuarioController {
 
     @GetMapping("/all")
     public ResponseEntity <List<Usuario>> getAll(){
+
         return ResponseEntity.ok(usuarioRepository.findAll());
+
     }
 
     @GetMapping("/{id}")
