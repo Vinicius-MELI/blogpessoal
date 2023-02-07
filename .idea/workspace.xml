@@ -5,8 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3f53b121-9bbb-48b3-9d63-e6da3078b1e3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atividadecrud/blogpessoal/controller/UsuarioController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atividadecrud/blogpessoal/model/Usuario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atividadecrud/blogpessoal/model/UsuarioLogin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atividadecrud/blogpessoal/repository/UsuarioRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atividadecrud/blogpessoal/security/BasicSecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atividadecrud/blogpessoal/security/UserDetailsServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atividadecrud/blogpessoal/security/UserDetailslmpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atividadecrud/blogpessoal/service/UsuarioService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/atividadecrud/blogpessoal/controller/PostagemController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/atividadecrud/blogpessoal/controller/PostagemController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogpessoal.iml" beforeDir="false" afterPath="$PROJECT_DIR$/blogpessoal.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/atividadecrud/blogpessoal/model/Postagem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/atividadecrud/blogpessoal/model/Postagem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +60,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/vimorais/Downloads/blogpessoal&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/vimorais/IdeaProjects/blogpessoal&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -88,6 +100,13 @@
       <workItem from="1675263570269" duration="157000" />
       <workItem from="1675263946181" duration="10808000" />
       <workItem from="1675337596925" duration="2142000" />
+      <workItem from="1675773046261" duration="44000" />
+      <workItem from="1675773105564" duration="132000" />
+      <workItem from="1675777688925" duration="540000" />
+      <workItem from="1675780351734" duration="63000" />
+      <workItem from="1675780460412" duration="12000" />
+      <workItem from="1675785861785" duration="250000" />
+      <workItem from="1675788347155" duration="3857000" />
     </task>
     <servers />
   </component>
