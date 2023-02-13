@@ -5,24 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3f53b121-9bbb-48b3-9d63-e6da3078b1e3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_h2database_h2_2_1_214.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/atividadecrud/blogpessoal/controller/UsuarioControllerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/atividadecrud/blogpessoal/repository/UsuarioRepositoryTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogpessoal.iml" beforeDir="false" afterPath="$PROJECT_DIR$/blogpessoal.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/atividadecrud/blogpessoal/model/Usuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/atividadecrud/blogpessoal/model/Usuario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/atividadecrud/blogpessoal/repository/UsuarioRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/atividadecrud/blogpessoal/repository/UsuarioRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/atividadecrud/blogpessoal/controller/PostagemController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/atividadecrud/blogpessoal/controller/PostagemController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/atividadecrud/blogpessoal/controller/TemaController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/atividadecrud/blogpessoal/controller/TemaController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/atividadecrud/blogpessoal/controller/UsuarioController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/atividadecrud/blogpessoal/controller/UsuarioController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/atividadecrud/blogpessoal/model/Postagem.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/atividadecrud/blogpessoal/model/Postagem.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/atividadecrud/blogpessoal/model/Tema.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/atividadecrud/blogpessoal/model/Tema.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/atividadecrud/blogpessoal/model/Usuario.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/atividadecrud/blogpessoal/model/Usuario.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/atividadecrud/blogpessoal/repository/PostagemRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/atividadecrud/blogpessoal/repository/PostagemRepository.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/atividadecrud/blogpessoal/repository/UsuarioRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/atividadecrud/blogpessoal/repository/UsuarioRepository.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,23 +46,13 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RunManager" selected="JUnit.UsuarioControllerTest.deveCriarUmUsuario">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="BlogpessoalApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="blogpessoal" />
       <extension name="coverage">
@@ -166,7 +139,7 @@
       <workItem from="1675780460412" duration="12000" />
       <workItem from="1675785861785" duration="250000" />
       <workItem from="1675788347155" duration="5640000" />
-      <workItem from="1676304236575" duration="2540000" />
+      <workItem from="1676304236575" duration="2862000" />
     </task>
     <servers />
   </component>
