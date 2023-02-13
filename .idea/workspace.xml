@@ -5,8 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3f53b121-9bbb-48b3-9d63-e6da3078b1e3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_h2database_h2_2_1_214.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/atividadecrud/blogpessoal/controller/UsuarioControllerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/atividadecrud/blogpessoal/repository/UsuarioRepositoryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogpessoal.iml" beforeDir="false" afterPath="$PROJECT_DIR$/blogpessoal.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/atividadecrud/blogpessoal/model/Usuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/atividadecrud/blogpessoal/model/Usuario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/atividadecrud/blogpessoal/repository/UsuarioRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/atividadecrud/blogpessoal/repository/UsuarioRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/atividadecrud/blogpessoal/controller/PostagemController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/atividadecrud/blogpessoal/controller/PostagemController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/atividadecrud/blogpessoal/controller/TemaController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/atividadecrud/blogpessoal/controller/TemaController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/atividadecrud/blogpessoal/controller/UsuarioController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/atividadecrud/blogpessoal/controller/UsuarioController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/atividadecrud/blogpessoal/model/Postagem.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/atividadecrud/blogpessoal/model/Postagem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/atividadecrud/blogpessoal/model/Tema.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/atividadecrud/blogpessoal/model/Tema.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/atividadecrud/blogpessoal/model/Usuario.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/atividadecrud/blogpessoal/model/Usuario.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/atividadecrud/blogpessoal/repository/PostagemRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/atividadecrud/blogpessoal/repository/PostagemRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/atividadecrud/blogpessoal/repository/UsuarioRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/atividadecrud/blogpessoal/repository/UsuarioRepository.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,45 +40,92 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
-  </component>
-  <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="useMavenConfig" value="true" />
-      </MavenGeneralSettings>
-    </option>
   </component>
   <component name="ProjectId" id="2L6mUxtC6dj7IjTG9YFnwydCvgH" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/vimorais/IdeaProjects/blogpessoal",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "SDKs",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "spring.configuration.checksum": "b41f11e6e309e0e241d6e06eac04a115",
-    "vue.rearranger.settings.migration": "true"
-  }
-}]]></component>
-  <component name="RunManager">
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RunManager" selected="JUnit.UsuarioControllerTest.deveCriarUmUsuario">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BlogpessoalApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="blogpessoal" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atividadecrud.blogpessoal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.atividadecrud.blogpessoal" />
+      <option name="MAIN_CLASS_NAME" value="com.atividadecrud.blogpessoal.BlogpessoalApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UsuarioControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="blogpessoal" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atividadecrud.blogpessoal.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.atividadecrud.blogpessoal.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.atividadecrud.blogpessoal.controller.UsuarioControllerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UsuarioControllerTest.deveCriarUmUsuario" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="blogpessoal" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atividadecrud.blogpessoal.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.atividadecrud.blogpessoal.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.atividadecrud.blogpessoal.controller.UsuarioControllerTest" />
+      <option name="METHOD_NAME" value="deveCriarUmUsuario" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="BlogpessoalApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="blogpessoal" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.atividadecrud.blogpessoal.BlogpessoalApplication" />
@@ -70,6 +133,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.UsuarioControllerTest.deveCriarUmUsuario" />
+        <item itemvalue="JUnit.UsuarioControllerTest" />
+        <item itemvalue="JUnit.BlogpessoalApplicationTests" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -96,6 +166,7 @@
       <workItem from="1675780460412" duration="12000" />
       <workItem from="1675785861785" duration="250000" />
       <workItem from="1675788347155" duration="5640000" />
+      <workItem from="1676304236575" duration="2540000" />
     </task>
     <servers />
   </component>
@@ -112,5 +183,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
