@@ -1,15 +1,14 @@
 package com.atividadecrud.blogpessoal.model;
 
-import java.util.List;
-
-
-
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
+import io.swagger.v3.oas.annotations.media.Schema;
 import jakarta.persistence.*;
 import jakarta.validation.constraints.Email;
 import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.NotNull;
 import jakarta.validation.constraints.Size;
+
+import java.util.List;
 
 @Entity
 @Table(name = "tb_usuarios")
@@ -22,8 +21,9 @@ public class Usuario {
     @NotNull(message = "O atributo Nome é Obrigatório!")
     private String nome;
 
-    @NotNull(message = "O atributo Usuário é Obrigatório!")
-    @Email(message = "O atributo Usuário deve ser um email válido!")
+    @Schema(example = "email@email.com.br")
+    @NotNull(message = "O Atributo Usuário é Obrigatório!")
+    @Email(message = "O Atributo Usuário deve ser um email válido!")
     private String usuario;
 
     @NotBlank(message = "O atributo Senha é Obrigatório!")
@@ -37,8 +37,9 @@ public class Usuario {
     @JsonIgnoreProperties("usuario")
     private List<Postagem> postagem;
 
+    /* Métodos Construtores  */
 
-    public Usuario(Long id, @NotNull(message = "O atributo Nome é Obrigatório!") String nome, @NotNull(message = "O atributo Usuário é Obrigatório!") @Email(message = "O atributo Usuário deve ser um email válido!") String usuario, @NotBlank(message = "O atributo Senha é Obrigatório!") @Size(min = 8, message = "A Senha deve ter no mínimo 8 caracteres") String senha, @Size(max = 5000, message = "O link da foto não pode ser maior do que 5000 caracteres") String foto) {
+    public Usuario(Long id, String nome, String usuario, String senha, String foto) {
         this.id = id;
         this.nome = nome;
         this.usuario = usuario;
@@ -46,8 +47,10 @@ public class Usuario {
         this.foto = foto;
     }
 
-    public Usuario() {
-    }
+    public Usuario() { }
+
+    /* Insira os Getters and Setters */
+
 
     public Long getId() {
         return this.id;
